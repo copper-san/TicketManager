@@ -21,8 +21,7 @@ RAM: 32,0 GB
 Monitor: 1920x1080 24"
 Sistema Operativo: Windows 10 Pro
 
-#Ordenador utilizado para el servidor
-
+# Ordenador utilizado para el servidor
 RAM: 4GB 
 Disco: 40 GB HDD
 Sistema Operativo: Ubuntu 18.04 command line version
@@ -34,4 +33,4 @@ PySide 6.5.0
 PyQT6 6.4.2
 pyodbc 4.0.39
 
-# NOTA: TODOS LAS LIBRERIAS SE ENCUENTRAN EN REQUIREMENTS.TXt
+#NOTA: TODOS LAS LIBRERIAS SE ENCUENTRAN EN REQUIREMENTS.TXt
