@@ -33,9 +33,13 @@ Sistema Operativo: Ubuntu 18.04 command line version
 
 # Versiones utilizadas en el programa
 Python 3.11.3
+
 ODBC 8.0.33
+
 PySide 6.5.0
+
 PyQT6 6.4.2
+
 pyodbc 4.0.39
 
 # NOTA: TODOS LAS LIBRERIAS SE ENCUENTRAN EN REQUIREMENTS.TXT
