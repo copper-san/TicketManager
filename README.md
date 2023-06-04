@@ -21,6 +21,7 @@ RAM: 32,0 GB
 Monitor: 1920x1080 24"
 Sistema Operativo: Windows 10 Pro
 
+
 #Ordenador utilizado para el servidor
 RAM: 4GB 
 Disco: 40 GB HDD
