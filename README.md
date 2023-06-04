@@ -16,14 +16,19 @@ Si quieres cambiar la contraseña deberás darle al botón de cambiar contraseñ
 - ODBC: https://drive.google.com/file/d/1FW5gfHYU8fNSB0mEM6GbcFVmwrc0Sae7/view?usp=drive_link
 
 # Ordenador utilizado para las pruebas
-Procesador: Intel(R) Core(TM) i7-10700KF CPU @ 3.80GHz   3.79 GHz
+Procesador: Intel(R) Core(TM) i7-10700KF CPU @ 3.80GHz  3.79 GHz
+
 RAM: 32,0 GB
+
 Monitor: 1920x1080 24"
+
 Sistema Operativo: Windows 10 Pro
 
 # Ordenador utilizado para el servidor
 RAM: 4GB 
+
 Disco: 40 GB HDD
+
 Sistema Operativo: Ubuntu 18.04 command line version
 
 # Versiones utilizadas en el programa
