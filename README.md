@@ -13,7 +13,7 @@ Si quieres cambiar la contraseña deberás darle al botón de cambiar contraseñ
 # Enlaces necesarios para el funcionamiento de la aplicación
 - Servidor: https://drive.google.com/file/d/1u8gbIqPmF6Ic8OTHAhQv9bGpZYhIvWq-/view?usp=sharing
 - VMware: https://drive.google.com/file/d/1FW5gfHYU8fNSB0mEM6GbcFVmwrc0Sae7/view?usp=drive_link
-- ODBC: https://drive.google.com/file/d/1FW5gfHYU8fNSB0mEM6GbcFVmwrc0Sae7/view?usp=drive_link
+- ODBC: https://drive.google.com/file/d/1twzeoiLueuJkmKKhyMUQ5CWq1JGZU6-I/view?usp=sharing
 
 # Ordenador utilizado para las pruebas
 Procesador: Intel(R) Core(TM) i7-10700KF CPU @ 3.80GHz  3.79 GHz
